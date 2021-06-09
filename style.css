@@ -1,0 +1,32 @@
+body {
+    color: white; 
+    background-image: url(https://external-preview.redd.it/xBN8-dtgiEqXYXqvH12q7CpHghFi60hLC6dYZpH7B9E.jpg?auto=webp&s=51bb9bcae7bd2f7a5776805395c2ed2d24d04c0f); 
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+span {
+    font-size: 30px; 
+} 
+#camera , #result { 
+    border: 2px dashed black; 
+    width: 350px; height: 300px; 
+} 
+#result_emotion_name ,#result_emotion_name2 {
+    color: black; 
+} 
+.emotion_name {
+    font-size: 40px; 
+} 
+.emoji {
+    font-size:48px; 
+} 
+.heading {
+    font-size: 18px; border-radius: 10px; 
+    letter-spacing: 10px; 
+} 
+label {
+    font-size: 14px; 
+    color: #62b33a; 
+    padding: 6px; border-radius: 10px; 
+    background-color: white; 
+}
